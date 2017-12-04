@@ -1,0 +1,27 @@
+{
+  "name": "project-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonVitoMarco/jpwmig-game-project.git"
+  },
+  "author": "Marek Chrapek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonVitoMarco/jpwmig-game-project/issues"
+  },
+  "homepage": "https://github.com/DonVitoMarco/jpwmig-game-project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-copy": "^1.0.1"
+  },
+  "dependencies": {
+
+  }
+}

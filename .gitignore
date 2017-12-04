@@ -1,2 +1,11 @@
 # WebStorm
 **/.idea/*
+
+# npm
+**/node_modules/*
+
+# dist
+**/dist/*
+
+# package-lock
+package-lock.json
